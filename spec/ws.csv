@@ -37,3 +37,4 @@ Futures,/contract/positionAll,allPosition,False
 Futures,/contract/marginMode,marginMode,False
 Futures,/contract/crossLeverage,crossLeverage,False
 Futures,/contractMarket/advancedOrders,stopOrders,False
+
